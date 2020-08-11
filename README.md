@@ -17,16 +17,16 @@ yarn add @iconscout/vue-unicons-solid
 ```html
 <template>
   <div>
-    <uis-vuejs size="180px" class="logo" />
+    <uis-star size="180px" class="logo" />
   </div>
 </template>
 
 <script>
-import { UisVuejs } from '@iconscout/vue-unicons-solid'
+import { UisStar } from '@iconscout/vue-unicons-solid'
 
 export default {
   components: {
-    UisVuejs
+    UisStar
   }
 }
 </script>
