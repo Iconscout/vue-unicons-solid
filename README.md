@@ -1,4 +1,4 @@
-# Vue Unicons
+# Vue Unicons Solid
 
 1100+ Pixel-perfect vector icons as Vue Components. These icons are designed by [Iconscout](https://iconscout.com).
 
