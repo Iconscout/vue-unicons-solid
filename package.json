@@ -37,10 +37,10 @@
     "@iconscout/unicons": "^4.0.8",
     "babel-loader": "^8.1.0",
     "cheerio": "^1.0.0-rc.3",
-    "css-loader": "^4.0.0",
+    "css-loader": "^7.1.2",
     "fs-plus": "^3.1.1",
     "uppercamelcase": "^3.0.0",
-    "vue-loader": "^15.9.3",
+    "vue-loader": "^17.4.2",
     "vue-template-compiler": "^2.6.11",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11"
